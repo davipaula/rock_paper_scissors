@@ -1,0 +1,217 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "first_player": "jdoe",
+      "second_player": "msmith",
+      "turns": [
+        {
+          "winner": "jdoe",
+          "timestamp": "2022-10-09 17:34:00.590395"
+        },
+        {
+          "winner": "jdoe",
+          "timestamp": "2022-10-09 17:34:03.590395"
+        },
+        {
+          "winner": "msmith",
+          "timestamp": "2022-10-09 17:34:07.590395"
+        },
+        {
+          "winner": null,
+          "timestamp": "2022-10-09 17:34:10.590395"
+        },
+        {
+          "winner": "jdoe",
+          "timestamp": "2022-10-09 17:34:12.590395"
+        },
+        {
+          "winner": "jdoe",
+          "timestamp": "2022-10-09 17:39:38.288608"
+        },
+        {
+          "winner": "jdoe",
+          "timestamp": "2022-10-09 17:40:14.893193"
+        },
+        {
+          "winner": "jdoe",
+          "timestamp": "2022-10-09 17:41:16.800526"
+        },
+        {
+          "winner": "jdoe",
+          "timestamp": "2022-10-09 18:05:03.555720"
+        },
+        {
+          "winner": "jdoe",
+          "timestamp": "2022-10-09 18:05:32.689114"
+        },
+        {
+          "winner": "jdoe",
+          "timestamp": "2022-10-09 18:05:47.536479"
+        },
+        {
+          "winner": "jdoe",
+          "timestamp": "2022-10-09 18:08:54.264061"
+        },
+        {
+          "winner": "jdoe",
+          "timestamp": "2022-10-09 18:09:03.233388"
+        },
+        {
+          "winner": "jdoe",
+          "timestamp": "2022-10-09 18:09:51.815047"
+        },
+        {
+          "winner": "jdoe",
+          "timestamp": "2022-10-09 18:16:49.957414"
+        },
+        {
+          "winner": "jdoe",
+          "timestamp": "2022-10-09 18:17:21.937555"
+        },
+        {
+          "winner": "jdoe",
+          "timestamp": "2022-10-09 18:17:30.270656"
+        },
+        {
+          "winner": "msmith",
+          "timestamp": "2022-10-09 18:19:40.025373"
+        },
+        {
+          "winner": "msmith",
+          "timestamp": "2022-10-09 18:19:41.253128"
+        },
+        {
+          "winner": "msmith",
+          "timestamp": "2022-10-09 18:19:41.959615"
+        },
+        {
+          "winner": "msmith",
+          "timestamp": "2022-10-09 18:19:42.626601"
+        },
+        {
+          "winner": "msmith",
+          "timestamp": "2022-10-09 18:19:43.231845"
+        },
+        {
+          "winner": "msmith",
+          "timestamp": "2022-10-09 18:19:43.942350"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "first_player": "p1",
+      "second_player": "p2",
+      "turns": [
+        {
+          "winner": "p2",
+          "timestamp": "2022-10-09 18:29:13.384386"
+        },
+        {
+          "winner": "p2",
+          "timestamp": "2022-10-09 18:29:16.593292"
+        },
+        {
+          "winner": "p2",
+          "timestamp": "2022-10-09 18:29:17.784470"
+        },
+        {
+          "winner": "p2",
+          "timestamp": "2022-10-09 18:29:18.372988"
+        },
+        {
+          "winner": "p2",
+          "timestamp": "2022-10-09 18:29:18.862483"
+        },
+        {
+          "winner": "p2",
+          "timestamp": "2022-10-09 18:29:19.272273"
+        },
+        {
+          "winner": null,
+          "timestamp": "2022-10-09 18:29:33.517100"
+        },
+        {
+          "winner": null,
+          "timestamp": "2022-10-09 18:29:34.773812"
+        },
+        {
+          "winner": null,
+          "timestamp": "2022-10-09 18:29:35.335687"
+        },
+        {
+          "winner": null,
+          "timestamp": "2022-10-09 18:29:55.463372"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "first_player": "p10",
+      "second_player": "p20",
+      "turns": [
+        {
+          "winner": null,
+          "timestamp": "2022-10-09 18:30:01.103356"
+        },
+        {
+          "winner": null,
+          "timestamp": "2022-10-09 18:30:02.313181"
+        },
+        {
+          "winner": "p20",
+          "timestamp": "2022-10-09 18:30:07.517580"
+        },
+        {
+          "winner": "p20",
+          "timestamp": "2022-10-09 18:30:09.065810"
+        },
+        {
+          "winner": "p10",
+          "timestamp": "2022-10-09 18:30:13.037255"
+        },
+        {
+          "winner": "p10",
+          "timestamp": "2022-10-09 18:30:13.697011"
+        },
+        {
+          "winner": "p10",
+          "timestamp": "2022-10-09 18:38:14.546976"
+        },
+        {
+          "winner": "p10",
+          "timestamp": "2022-10-09 18:38:15.992576"
+        },
+        {
+          "winner": "p10",
+          "timestamp": "2022-10-09 19:07:10.715623"
+        },
+        {
+          "winner": "p10",
+          "timestamp": "2022-10-09 19:07:19.363417"
+        },
+        {
+          "winner": null,
+          "timestamp": "2022-10-09 19:07:24.750436"
+        },
+        {
+          "winner": null,
+          "timestamp": "2022-10-09 19:07:29.101830"
+        },
+        {
+          "winner": null,
+          "timestamp": "2022-10-09 19:09:24.255683"
+        },
+        {
+          "winner": null,
+          "timestamp": "2022-10-09 19:09:25.899936"
+        },
+        {
+          "winner": null,
+          "timestamp": "2022-10-09 19:09:26.500158"
+        }
+      ]
+    }
+  ]
+}
